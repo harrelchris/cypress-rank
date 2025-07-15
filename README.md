@@ -1,1 +1,3 @@
-# cypress-rank
+# Cypress Rank
+
+Agentic AI Ranking System
